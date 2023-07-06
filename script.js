@@ -96,42 +96,42 @@ var input = [
         "artWork": "https://image.tmdb.org/t/p/original/byonWu6WNGMV3Jkc5qYnm4Fyf1i.jpg",
         "title": "F.R.I.E.N.D.S Season 5",
         "subtitle": '"The fifth season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on September 24, 1998. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 20, 1999. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friendss05.pages.dev/"
+        "url": "https://friends.pages.dev/season5/"
     },
     {
         "image": "https://image.tmdb.org/t/p/original/5K4e4g5fx2YQtZLWzSDzq1Z3I8j.jpg",
         "artWork": "https://image.tmdb.org/t/p/original/gDFnHtHASGTQDYuhRP1m0FSbXz9.jpg",
         "title": "F.R.I.E.N.D.S Season 6",
         "subtitle": '"The sixth season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on September 23, 1999. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 25 episodes and concluded airing on May 18, 2000. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friendss06.pages.dev/"
+        "url": "https://friends.pages.dev/season6/"
     },
     {
         "image": "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
         "artWork": "https://image.tmdb.org/t/p/original/nDPZbFHUM9bJTf2Tr9jbRwHF9mH.jpg",
         "title": "F.R.I.E.N.D.S Season 7",
         "subtitle": '"The seventh season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on October 12, 2000. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 17, 2001. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friendss07.pages.dev/"
+        "url": "https://friends.pages.dev/season7/"
     },
     {
         "image": "https://image.tmdb.org/t/p/original/gGPteTuodLDBPLeD5hIt4E2FURl.jpg",
         "artWork": "https://image.tmdb.org/t/p/original/3fRWoMOn3cQ72qPrFaJuKSYtzh5.jpg",
         "title": "F.R.I.E.N.D.S Season 8",
         "subtitle": '"The eighth season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on September 27, 2001. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 16, 2002. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friendss08.pages.dev/"
+        "url": "https://friends.pages.dev/season8/"
     },
     {
         "image": "https://image.tmdb.org/t/p/original/l6d3fCQOq6KOJIa4xUvZ8RuWsLM.jpg",
         "artWork": "https://image.tmdb.org/t/p/original/zjXWePp4V3NAKEhGX1bavJXYEuo.jpg",
         "title": "F.R.I.E.N.D.S Season 9",
         "subtitle": '"The ninth season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on September 26, 2002. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 15, 2003. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friendss09.pages.dev/"
+        "url": "https://friends.pages.dev/season9/"
     },
     {
         "image": "https://image.tmdb.org/t/p/original/ne9f7i9Xe396fu0QFthhpi7MMFT.jpg",
         "artWork": "https://image.tmdb.org/t/p/original/kBgfLNbKvz1b9K5RGBQqIxAW4gi.jpg",
         "title": "F.R.I.E.N.D.S Season 10",
         "subtitle": '"The tenth and final season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on September 25, 2003. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 17 episodes and concluded airing on May 6, 2004. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friendss10.pages.dev/",
+        "url": "https://friends.pages.dev/season10/",
     }
 ]
 
