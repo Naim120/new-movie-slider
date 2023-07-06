@@ -68,28 +68,28 @@ var input = [
         "artWork": "https://image.tmdb.org/t/p/original/bKvWQLd8AfqFQAS2XqjoICkUFjO.jpg",
         "title": "F.R.I.E.N.D.S Season 1",
         "subtitle": '"Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friends.pages.dev/season1/index.html"
+        "url": "https://friends.pages.dev/season1/"
     },
     {
         "image": "https://image.tmdb.org/t/p/original/ykDYy50mHU52PqYEu4xiFFOw5mw.jpg",
         "artWork": "https://image.tmdb.org/t/p/original/c3nXI2q2OJOTq3ZXrhdpP95kTSG.jpg",
         "title": "F.R.I.E.N.D.S Season 2",
         "subtitle": '"The second season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on September 21, 1995. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 16, 1996. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friends.pages.dev/season2/index.html"
+        "url": "https://friends.pages.dev/season2/"
     },
     {
         "image": "https://image.tmdb.org/t/p/original/qjUqBVLUPX1Pc4cyYljZfAJHf8N.jpg",
         "artWork": "https://image.tmdb.org/t/p//original/cuLe27ikacx1HXHLmRn7ecylLlS.jpg",
         "title": "F.R.I.E.N.D.S Season 3",
         "subtitle": '"The third season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on September 19, 1996. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 25 episodes and concluded airing on May 15, 1997. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friends.pages.dev/season3/index.html"
+        "url": "https://friends.pages.dev/season3/"
     },
     {
         "image": "https://image.tmdb.org/t/p/original/7CNNnO2BRvT4dIoDzVZnxTjATwE.jpg",
         "artWork": "https://image.tmdb.org/t/p/original/yuQcw9Q3PKrhLwjMFGTyeazAVaD.jpg",
         "title": "F.R.I.E.N.D.S Season 4",
         "subtitle": '"The fourth season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on September 25, 1997. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing May 7, 1998. <p><br><button class="custom-btn btn-12"><span>Now</span><span>Watch</span><link rel="stylesheet" href="./button.css"></button>"',
-        "url": "https://friends.pages.dev/season4/index.html"
+        "url": "https://friends.pages.dev/season4/"
     },
     {
         "image": "https://image.tmdb.org/t/p/original/o0TYvii1gab1ThmGFegpF4iyDwf.jpg",
